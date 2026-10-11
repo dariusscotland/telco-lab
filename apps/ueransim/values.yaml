@@ -6,6 +6,6 @@ sd: "0x111111"
 sst: 1
 tac: "0001"
 ues:
-  count: 2
+  count: 1
   enabled: true
   initialMSISDN: "0000000001"
